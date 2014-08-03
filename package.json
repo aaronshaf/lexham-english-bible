@@ -1,0 +1,15 @@
+{
+  "name": "lexham-english-bible",
+  "version": "1.0.0",
+  "description": "Lexham English Bible in different formats",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aaronshaf/lexham-english-bible.git"
+  },
+  "author": "Logos Bible Software",
+  "license": "lexhamenglishbible.com/license",
+  "bugs": {
+    "url": "https://github.com/aaronshaf/lexham-english-bible/issues"
+  },
+  "homepage": "https://github.com/aaronshaf/lexham-english-bible"
+}
